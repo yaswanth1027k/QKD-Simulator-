@@ -1,0 +1,6 @@
+{
+  "name": "QKD Key Management Entity (KME) Dashboard",
+  "description": "Production-grade interactive Quantum Key Distribution Key Management Entity (KME) for Critical Infrastructure with ETSI GS QKD 014 compliance, quantum interception simulation, and live encryption sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
